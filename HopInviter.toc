@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: HopInvite
+## Author: Jensen (Tithe-Kirtonos)
+## Version: 1.0
+
+HopInviter.lua
