@@ -4,7 +4,7 @@ WoW addon made by Tithe for the guild Smoke on Kirtonos in WoW Classic.
 
 ## Installation
 
-1) Download the repository.
+1) Download the repository or **go here to download the .zip directly: https://share.getcloudapp.com/xQu9QdLk**
 2) Extract the HopInviter file into `\World of Warcraft\_classic_\Interface\AddOns`
 3) Reboot WoW OR type `/reload` into the chat to reload your user interface.
 
